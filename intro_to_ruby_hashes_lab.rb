@@ -1,6 +1,5 @@
 def new_hash
-  monopoly = { :railroads => {},
-                
+  monopoly = { :railroads => {}, :reading_railroad => {}, 
 
 end
 
