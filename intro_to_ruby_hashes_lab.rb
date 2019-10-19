@@ -1,7 +1,8 @@
 def new_hash
-  monopoly = {}
 
-end
+	test_hash = Hash.new
+end	
+
 
 def actor
 
